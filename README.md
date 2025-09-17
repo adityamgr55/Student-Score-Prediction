@@ -47,6 +47,6 @@ This project predicts student performance based on various academic and demograp
 ## Future Improvements
 - Hyperparameter tuning for better model performance.
 - Trying advanced models like XGBoost or Neural Networks.
-- Adding cross-validation for robust evaluation.
+
 
 
